@@ -1,4 +1,4 @@
-# Pruned Neural Networks are Surprisingly Modular
+# The Nature of the “Surprisingly Clusterable” Phenomenon in Pruned MLPs
 
 ## Results
 
